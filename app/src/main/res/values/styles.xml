@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EditTextField" parent="Theme.AppCompat.Light">
+        <item name="android:textSize">20dp</item>
+        <item name="android:background">@drawable/edit_text_field</item>
+    </style>
+    <style name="SubmitButton" parent="Theme.AppCompat.Light">
+        <item name="android:src">@drawable/ic_baseline_arrow_right_24</item>
+        <item name="android:background">@drawable/submit_button</item>
+        <item name="tint">@color/white</item>
+        <item name="android:backgroundTint">@color/black</item>
+    </style>
+    <style name="DataLayout" parent="Theme.AppCompat.Light">
+        <item name="android:background">@drawable/data_layout</item>
+    </style>
+</resources>
